@@ -40,7 +40,8 @@ data_panen = {
         }
     }            
 }
-
+print("HALO, SELAMAT DATANG")
+print("NAMA SAYA DINAN HAFIZHAN")
 
 print("="*100)
 # Menampikan semua data pada dictionary data panen
